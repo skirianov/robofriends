@@ -1,1 +1,0 @@
-This is my first react app as part of Anrei Course!
